@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+form {
+    padding: 50px;
+    border-radius: 8px;
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    border: 1px solid green;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+
+  input, text {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #8d1b1b;
+  }
+
+  input[type="submit"] {
+    grid-column: span 2;
+    background-color: #ccc;
+    color: #000;
+    cursor: pointer;
+  }
+  a[type="submit"] {
+    grid-column: span 2;
+    background-color: #ccc;
+    color: #000;
+    cursor: pointer;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  input[type="reset"] {
+    grid-column: span 2;
+    background-color: #ccc;
+    color: #000;
+    cursor: pointer;
+  }
+
+  input[type="reset"]:hover {
+    background-color: #45a049;
+  }
+  .clear {
+      clear: both;
+  }
+
