@@ -219,22 +219,22 @@ header {
         <div class="carousel-container">
             <h2>Our Tutors</h2>
             <div class="carousel-image">
-            <img src="tutors/death note banner.jpg" alt="Image 1">
+            <img src="tutors/tutor1.jpg" alt="Image 1">
             <h3>Lyzander Espallardo</h3>
             <p>Math Tutor</p>
             </div>
             <div class="carousel-image">
-            <img src="tutors/death note banner.jpg" alt="Image 2">
+            <img src="tutors/tutor2.jpg" alt="Image 2">
             <h3>Shekinah Ramos</h3>
             <p>English Tutor</p>
             </div>
             <div class="carousel-image">
-            <img src="tutors/death note banner.jpg" alt="Image 3">
+            <img src="tutors/tutor 3.png" alt="Image 3">
             <h3>Paul Jay Doloso</h3>
             <p>Science Tutor</p>
             </div>
             <div class="carousel-image">
-            <img src="tutors/death note banner.jpg" alt="Image 4">
+            <img src="tutors/tutor4.jpg" alt="Image 4">
             <h3>Ian Kyle Magbanua</h3>
             <p>Physical Education Coach</p>
             </div>
